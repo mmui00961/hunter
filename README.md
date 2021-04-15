@@ -12,4 +12,4 @@ rm -rf hunter.zip/
 cd hunter/
 php bot.php/
 
-enter token and id/
+enter token and id
