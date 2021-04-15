@@ -1,4 +1,4 @@
-# insta #termux #vps use #sudo
+# insta #termux
 apt update&apt upgrade/
 pkg update&pkg upgrade/
 pkg install git/
